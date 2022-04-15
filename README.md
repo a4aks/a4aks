@@ -13,8 +13,8 @@ An aspiring full-stack developer with a specialization in MERN stack with a pass
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
-- 💼 any freelance work? do reach, ✔️[Linkedin](https://www.linkedin.com/in/nitesh-goshwami-88629a167/)
-✔️[Mail](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=goswami.nitesh5794@gmail.com.com&su=SUBJECT&body=BODY&tf=1)
+- 💼 any freelance work? do reach, ✔️[Linkedin](https://www.linkedin.com/in/ashish-kumar-913ba0b5/)
+✔️[Mail](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=a4ashish04@gmail.com.com&su=SUBJECT&body=BODY&tf=1)
 - 💬 ask me about anything, i am happy to help;
  <img align="right" alt="GIF" clear = "both" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
@@ -71,16 +71,16 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 ## Let's get connected:
 
 <p>
-    <a href="https://www.linkedin.com/in/nitesh-goshwami-88629a167/"><img alt="Linkedin"
+    <a href="https://www.linkedin.com/in/ashish-kumar-913ba0b5/"><img alt="Linkedin"
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white?link=http://left&link=https://www.linkedin.com/in/nitesh-goshwami-88629a167/"
             height="35px" /></a>
-    <a href="https://twitter.com/Niteshkumargos1"><img alt="Twitter"
+<!--     <a href="https://twitter.com/Niteshkumargos1"><img alt="Twitter"
             src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white?link=http://left&link=https://twitter.com/Niteshkumargos1"
-            height="35px" /></a>
-    <a href="https://leetcode.com/jd_23/"><img alt="LeetCode"
+            height="35px" /></a> -->
+<!--     <a href="https://leetcode.com/jd_23/"><img alt="LeetCode"
             src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black?link=http://left&link=https://leetcode.com/jd_23/"
-            height="35px" /></a>
-        <a href="goswami.nitesh5794@gmail.com"><img alt="Gmail"
+            height="35px" /></a> -->
+        <a href="a4ashish04@gmail.com"><img alt="Gmail"
             src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white?link=http://left&link=goswami.nitesh5794@gmail.com"
             height="35px" width = "130px"/></a>
     
@@ -97,6 +97,6 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 📈 my github stats
 
 <p align="center"> 
-        <img height= "200px" width ="45%" src="https://github-readme-stats.vercel.app/api?username=Nitesh-Goshwami&theme=react&show_icons=true&include_all_commits=true" />
-        <img height= "200px" width ="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh-Goshwami&theme=react&layout=compact" />
+        <img height= "200px" width ="45%" src="https://github-readme-stats.vercel.app/api?username=a4aks&theme=react&show_icons=true&include_all_commits=true" />
+        <img height= "200px" width ="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a4aks&theme=react&layout=compact" />
  </p>
