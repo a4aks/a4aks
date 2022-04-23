@@ -8,9 +8,11 @@
 
 <br />
 
-An aspiring full-stack developer with a specialization in MERN stack with a passion for learning with an endless supply of optimism and curiosity.
+An aspiring full-stack developer with a specialization in MERN stack and Problem Solving Skills.
 
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+I am truly passionate about learning about new and emerging trends in the IT sector to enhance my knowledge
+
+Looking forward to starting my career as a software developer and working on some of the exciting and challenging projects.
 
 
 - 💼 any freelance work? do reach, ✔️[Linkedin](https://www.linkedin.com/in/ashish-kumar-913ba0b5/)
